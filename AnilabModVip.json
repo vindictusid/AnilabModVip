@@ -210,6 +210,13 @@
     "allowOffline": true
   },
   {
+    "id": "7284b1f75e4b807f",
+    "username": "601131056304",
+    "password": "anilabmod",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
